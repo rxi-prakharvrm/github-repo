@@ -1,3 +1,10 @@
+==== My favourite movies ===
 Bahubali 2
 Pushpa
 RRR
+
+=== my favourite food items ===
+Masala Dosa
+Idaly
+Chilli Potato
+
